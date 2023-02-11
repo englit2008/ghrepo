@@ -1,0 +1,4 @@
+# 3 sveti chanaweris gaketeba output saxelwodebis txt failshi 
+# t tt ttt 
+
+for i in {1..10000}; do echo "t$i tt$i ttt$i" >> output.txt; done 
